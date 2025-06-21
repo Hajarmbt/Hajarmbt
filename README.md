@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Hajar Mrabet
 
-<!--
-**Hajarmbt/Hajarmbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Senior Computer Science student with a minor in Communication Studies and a specialization in Advanced Computer Sciences 
+🧠 I'm interested in AI, UX design, and Research 
+🎨 I also enjoy graphic design and photography
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Languages: C, Java, JavaScript, PHP
+- Frameworks and Tools: React, Django, Adobe, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- Al Akhawayn University
+  Bachelor's Degree, expected to graduate in Spring 2026
+
+## 📁 Projects
+
+
+## 📫 Contact Me
+www.linkedin.com/in/hajar-mrabet-91a763257 | hmrabet585@gmail.com
